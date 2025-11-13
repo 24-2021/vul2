@@ -6,7 +6,7 @@ https://www.jizhicms.cn/
 
 ## Description
 
-Ultimate CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. Remote download combined with decompression leads to remote code execution exists
+jizhi CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. Remote download combined with decompression leads to remote code execution exists
 
 ## POC
 
@@ -95,5 +95,6 @@ http://192.168.24.65:1004/app/admin/exts/1.php
 ## version
 
 Vulnerabilities affect versions
+
 
 jizhicms<=V2.5.5
