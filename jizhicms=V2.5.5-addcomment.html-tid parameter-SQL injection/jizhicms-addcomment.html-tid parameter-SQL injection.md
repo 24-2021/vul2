@@ -6,7 +6,7 @@ https://www.jizhicms.cn/
 
 ## Description
 
-Ultimate CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. SQL injection exists
+jizhi CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. SQL injection exists
 
 ## POC
 
@@ -65,5 +65,6 @@ Parameters are directly concatenated without any filtering added
 ## version
 
 Vulnerabilities affect versions
+
 
 jizhicms<=V2.5.5
