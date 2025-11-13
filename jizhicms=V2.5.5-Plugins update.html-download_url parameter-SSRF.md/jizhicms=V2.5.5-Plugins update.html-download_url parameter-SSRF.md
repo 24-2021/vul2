@@ -6,7 +6,7 @@ https://www.jizhicms.cn/
 
 ## Description
 
-Ultimate CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. SSRF exists
+jizhi CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. SSRF exists
 
 ## POC
 
@@ -59,5 +59,6 @@ The port is open, and there will be a response as shown in the picture
 ## version
 
 Vulnerabilities affect versions
+
 
 jizhicms<=V2.5.5
