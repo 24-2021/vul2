@@ -6,7 +6,7 @@ https://www.jizhicms.cn/
 
 ## Description
 
-Ultimate CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. Storage XSS exists
+jizhi CMS aims to help netizens solve the troubles of using Ultimate CMS and the difficulties encountered in daily website building. Storage XSS exists
 
 ## POC
 
@@ -61,5 +61,6 @@ Connection: close
 ## version
 
 Vulnerabilities affect versions
+
 
 jizhicms<=V2.5.5
